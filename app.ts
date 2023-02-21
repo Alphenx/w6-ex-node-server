@@ -1,5 +1,3 @@
-// const os = require('node:os'); //COMMON JS -> CJS
-
 import os from 'node:os';
 import express from 'express';
 
